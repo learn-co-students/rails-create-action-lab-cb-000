@@ -1,5 +1,6 @@
-<div>
+<h1><div>
   <% @students.each do |student| %>
     <div><%= link_to student.to_s, student_path(student) %></div>
   <% end %>
-</div>
+</div></h1>
+<p><%= link_to "Add New Student", controller: "students", action: "new" %></P>
