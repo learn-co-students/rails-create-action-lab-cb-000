@@ -1,4 +1,4 @@
-# Create Action Lab
+# Create Action Labhttps://learn.co/tracks/full-stack-community-bootcamp/rails/crud-with-rails/create-action-lab#
 
 1. Build a working `create` action
 2. Use a `form_tag` to create a new form that submits to the `index` action
